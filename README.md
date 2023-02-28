@@ -1,4 +1,4 @@
-# budget_buddie_ui
+# budget_buddie - Personal Finance Managament App 
 
 A new Flutter project for SLIIT Codecon Hackathon 2023.
 
