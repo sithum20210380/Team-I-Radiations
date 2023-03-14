@@ -118,7 +118,7 @@ class _MonthlyBudgetPlanPageState extends State<MonthlyBudgetPlanPage> {
                           mainAxisAlignment: MainAxisAlignment.end,
                           children: [
                             Text(
-                              "₺${budget[index]['price']}",
+                              "Rs.${budget[index]['price']}",
                               style: const TextStyle(
                                   fontWeight: FontWeight.w600,
                                   fontSize: 15,
@@ -159,7 +159,7 @@ class _MonthlyBudgetPlanPageState extends State<MonthlyBudgetPlanPage> {
                   ),
                 ),
                 Text(
-                  "₺$total",
+                  "Rs.$total",
                   style: const TextStyle(
                       fontSize: 20, color: black, fontWeight: FontWeight.bold),
                   overflow: TextOverflow.ellipsis,

@@ -158,7 +158,7 @@ class _ProfilePageState extends State<ProfilePage> {
                                 height: 10,
                               ),
                               Text(
-                                "₺3201.80",
+                                "Rs.3201.80",
                                 style: TextStyle(
                                     fontWeight: FontWeight.bold,
                                     fontSize: 20,
