@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1098903549218",
+    "project_id": "team-i-radiations",
+    "storage_bucket": "team-i-radiations.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098903549218:android:53cffa789870b4d22be17b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098903549218-cv79e1rmm46dvi32uslu68g4usdntph2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtBzEw9YYYXgtSpDIzZ9R_eH8z57Glt_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098903549218-cv79e1rmm46dvi32uslu68g4usdntph2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

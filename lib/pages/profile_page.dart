@@ -1,7 +1,8 @@
-import '../theme/colors.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_icons/flutter_icons.dart';
 import 'package:percent_indicator/circular_percent_indicator.dart';
+
+import '../theme/colors.dart';
 
 class ProfilePage extends StatefulWidget {
   const ProfilePage({Key? key}) : super(key: key);

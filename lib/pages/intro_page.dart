@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'root_app.dart';
 import '../theme/colors.dart';
+import 'package:flutter_application_1/screens/login_screen.dart';
 
 class IntroPage extends StatelessWidget {
   const IntroPage({Key? key}) : super(key: key);
