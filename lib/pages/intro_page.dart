@@ -50,6 +50,16 @@ class IntroPage extends StatelessWidget {
               ),
             ),
           ),
+          const SizedBox(
+            height: 120,
+          ),
+          const Text(
+            'By Team I Radiations',
+            style: TextStyle(
+              fontSize: 16,
+              fontWeight: FontWeight.bold
+            ),
+          ),
         ],
       ),
     );
