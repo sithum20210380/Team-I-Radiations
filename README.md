@@ -1,4 +1,4 @@
-# flutter_application_1 - Team I Radiations
+Team I Radiations
 
 A new Flutter project.
 
